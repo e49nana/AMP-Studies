@@ -27,7 +27,7 @@ AMP-Studies/
 ## 🧪 Highlighted work
 - **Heat Equation Solver (FD/FEM)** – coming soon  
 - **Numerical Methods notebooks** – Python/NumPy/SciPy  
-- **Physics II simulation experiments**  
+- **Physics II & III - simulation experiments**  
 
 ---
 
