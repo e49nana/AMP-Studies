@@ -21,3 +21,21 @@ AMP-Studies/
 ├── Semester5_WiSe26_27/
 ├── Semester6_SoSe27_Mobility/
 └── Bachelorarbeit_WiSe27_28/
+
+---
+
+## 🧪 Highlighted work
+- **Heat Equation Solver (FD/FEM)** – coming soon  
+- **Numerical Methods notebooks** – Python/NumPy/SciPy  
+- **Physics II simulation experiments**  
+
+---
+
+## 🎯 Goals
+- Maintain a clean academic record of my AMP studies  
+- Build strong foundations for MSc @ TUM (CSE / Math Data / Applied Physics)  
+- Prepare for exchange @ École Polytechnique (Cycle Ingénieur level courses)
+  
+---
+
+*"Every notebook and simulation is a step toward scientific excellence."*
