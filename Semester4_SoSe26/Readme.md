@@ -15,7 +15,7 @@
 
 **Emmanuel Nana Nana** — *aka Sola*  
 B.Sc. Applied Mathematics & Physics · TH Nürnberg Georg Simon Ohm  
-Semester 3 · SoSe 2026 · 🇩🇪 🇨🇲 🇫🇷
+Semester 4 · SoSe 2026 · 🇩🇪 🇨🇲 🇫🇷
 
 ---
 
