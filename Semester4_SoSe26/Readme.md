@@ -27,7 +27,7 @@ Not comfortably. Not easily. Through the storm — between an administrative rej
 
 > *"There is no victory without battle, and there is no battle without scars."*
 
-Today, **March 17, 2026**, the summer semester begins. This README is my statement of intent.
+Today, **March 16, 2026**, the summer semester begins. This README is my statement of intent.
 
 ---
 
@@ -96,7 +96,7 @@ Languages     🇫🇷 French (native) · 🇩🇪 German (B2-C1) · 🇬🇧 En
 
 ```
 [ ] Pass EVERY module this semester — zero debt
-[ ] GPA ≤ 2.0 (German scale) for TUM application
+[ ] GPA ≤ 2.5 (German scale) for TUM application
 [ ] Ship 3+ new ExMachina products on MQL5 Market
 [ ] Complete CORTEX Engine Phase 1 (Data Collector EA)
 [ ] DJIBRIL AI v2.0 → production-ready
