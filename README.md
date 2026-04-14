@@ -1,161 +1,125 @@
-<div align="center">
+# 📘 AMP-Studies
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c75&height=180&section=header&text=AMP-Studies&fontSize=40&fontColor=58a6ff&fontAlignY=35&desc=B.Sc.%20Applied%20Mathematics%20%26%20Physics%20%E2%80%94%20TH%20N%C3%BCrnberg&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+[![TH Nürnberg](https://img.shields.io/badge/TH%20Nürnberg-Applied%20Math%20%26%20Physics-003366?style=flat)](https://www.th-nuernberg.de/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[![TH Nürnberg](https://img.shields.io/badge/TH_Nürnberg-Applied_Math_&_Physics-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.th-nuernberg.de/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](#)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](#)
-
-</div>
+> Coursework, notes, and Python implementations from my **B.Sc. Applied Mathematics & Physics** at **TH Nürnberg**.
 
 ---
 
-## About
+## 🎓 Current Semester: SoSe 2026 (Semester 4)
 
-Complete coursework archive from my **B.Sc. in Applied Mathematics & Physics (B-AMP)** at **TH Nürnberg** — organized semester by semester.
-
-This repo contains notebooks, cheatsheets, exercises, and project work from each module.
-
----
-
-## Program Overview
-
-| | | |
+| Course | Folder | Status |
 |---|---|---|
-| **Degree** | B.Sc. Angewandte Mathematik und Physik | 210 ECTS |
-| **University** | Technische Hochschule Nürnberg | SPO Anlage 5 (WS 2024/25) |
-| **Current Semester** | 4th (SoSe 2026) | |
-| **ECTS earned** | 58 LP | |
+| Numerik 2 | [`Semester4_SoSe26/numerics-2/`](Semester4_SoSe26/numerics-2/) | 🔄 In progress |
+| Optimierung 1 | [`Semester4_SoSe26/optimization-1/`](Semester4_SoSe26/optimization-1/) | 🔄 In progress |
+| Anwendungsschwerpunkt: Machine Learning | [`Semester4_SoSe26/anwendungsschwerpunkte/machine-learning/`](Semester4_SoSe26/anwendungsschwerpunkte/machine-learning/) | 🔄 In progress |
+| Anwendungsschwerpunkt: Multiphysics | [`Semester4_SoSe26/anwendungsschwerpunkte/multiphysics/`](Semester4_SoSe26/anwendungsschwerpunkte/multiphysics/) | 🔄 In progress |
+
+See [`Semester4_SoSe26/README.md`](Semester4_SoSe26/README.md) for the full semester manifesto.
 
 ---
 
-## Semester Structure
+## 📂 Repository Structure
 
-### Semester 1 — WiSe 24/25 ✅
+The repository is organized **by semester**. Inside each semester, courses
+live in their own folder using kebab-case English names. Notes, cheatsheets,
+and Python implementations sit side by side within each course folder.AMP-Studies/
+├── cheatsheets/                 # Cross-semester quick references
+│
+├── Semester1_WiSe24_25/         # Foundations (notes pending migration)
+├── Semester2_SoSe25/            # Year 1 completion (notes pending migration)
+│
+├── Semester3_WiSe25_26/         # ⭐ Most documented semester
+│   ├── applied-analysis/        # Metric/normed/Hilbert spaces, operators, fundamental theorems
+│   ├── stochastics/             # Probability, random variables, distributions
+│   ├── numerics-1/              # Root finding, interpolation, integration, ODE, NLA
+│   └── linear-algebra/          # Review utilities
+│
+└── Semester4_SoSe26/            # Current semester
+├── numerics-2/
+├── optimization-1/
+└── anwendungsschwerpunkte/  # Elective application modules
+├── machine-learning/
+└── multiphysics/---
 
-> *Foundations: Analysis, Linear Algebra, Physics, Programming*
+## 📊 Progress
 
-| Module | ECTS | Status |
-|--------|:----:|:------:|
-| Analysis I | 7 | ✅ |
-| Lineare Algebra | 7 | ✅ |
-| Physik I | 7 | ✅ |
-| Einführung in die Programmierung | 5 | ✅ |
-| Technisches Englisch 1 | 2 | ✅ |
-
----
-
-### Semester 2 — SoSe 25 ✅
-
-> *Deepening: Analysis II, practical lab work, simulation tools*
-
-| Module | ECTS | Status |
-|--------|:----:|:------:|
-| Analysis II | 7 | ✅ |
-| Physikpraktikum | 4 | ✅ (1,70) |
-| Seminar Simulationstools | 4 | ✅ (1,70) |
-| Prozedurales Programmieren | 5 | ✅ (3,7) |
-| Physik II | 7 | ⏳ Open |
-
----
-
-### Semester 3 — WiSe 25/26 🔄
-
-> *Core mathematics & advanced physics — exams postponed to SoSe 26*
-
-| Module | ECTS | Status |
-|--------|:----:|:------:|
-| Numerik 1 | 7 | 🔄 Postponed to SoSe 26 |
-| Stochastik | 5 | 🔄 Postponed to SoSe 26 |
-| Funktionale Analysis | 5 | 🔄 Postponed to SoSe 26 |
-| Physik III (written) | 5 | 🔄 Postponed to SoSe 26 |
-| Physik II | 7 | 🔄 Postponed to SoSe 26 |
+| Semester | Period | Status | Materials in repo |
+|---|---|---|---|
+| Semester 1 | WiSe 24/25 | ✅ Completed | ⏳ Migration pending |
+| Semester 2 | SoSe 25 | ✅ Completed | ⏳ Migration pending |
+| Semester 3 | WiSe 25/26 | ✅ Completed | ✅ Notes + code |
+| Semester 4 | SoSe 26 | 🔄 In progress | 🔄 Being built |
 
 ---
 
-### Semester 4 — SoSe 26 📋 *(current)*
-
-> *Applied courses + catching up on postponed exams*
-
-| Module | ECTS | Status |
-|--------|:----:|:------:|
-| Optimierung | 5 | 📋 In progress |
-| Maschinelles Lernen | 5 | 📋 In progress |
-| MultiPhysics | 5 | 📋 In progress |
-| Numerik II | 5 | 📋 In progress |
-| + Semester 3 exams | — | 📋 In progress |
-
----
-
-## Repository Structure
-
-```
-AMP-Studies/
-├── Semester1_WiSe24_25/       # Linear Algebra notes
-├── Semester3_WiSe25_26/       # Functional Analysis, Stochastik, Numerik
-│   ├── Algebra/
-│   ├── Numerical Analysis/
-│   ├── Stochastik/
-│   └── *.md / *.py            # Notes & implementations
-├── Semester4_SoSe26/          # Current semester
-│   ├── Maschinelles_Lernen/
-│   ├── MultiPhysics/
-│   ├── Numerik_II/
-│   └── Optimierung/
-└── cheatsheets/
-    ├── exam-quick-reference.md
-    └── fourier-analysis-cheatsheet.md
-```
-
----
-
-## Resources
-
-### Cheatsheets
-
-| File | Topic |
-|------|-------|
-| `cheatsheets/exam-quick-reference.md` | Cross-module exam formulas & key results |
-| `cheatsheets/fourier-analysis-cheatsheet.md` | Fourier series, transforms, convergence |
-| `Semester3_WiSe25_26/probability-distributions-cheatsheet.md` | Probability distributions reference |
-
-### Code Implementations
-
-- Probability distributions & stochastic essentials (Python)
-- Numerical methods (Python)
-- Symbolic computation with SymPy
-- Linear algebra utilities
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack & Conventions
 
 | Tool | Usage |
-|------|-------|
-| **Python** | Numerical implementations, data analysis |
-| **MATLAB** | Course exercises, simulations |
-| **LaTeX** | Notes, reports, cheatsheets |
-| **Jupyter** | Interactive notebooks |
-| **Markdown** | Documentation, quick references |
+|---|---|
+| **Markdown** | Lecture notes, cheatsheets |
+| **Python** | Numerical implementations (NumPy, SciPy, matplotlib) |
+| **Jupyter** | Demo notebooks |
+| **LaTeX** | Formal write-ups (planned) |
+
+**File conventions:**
+- `*.py` = reusable libraries (algorithms, helpers)
+- `*.ipynb` = interactive demos (theory → implementation → visualization)
+- `*.md` = lecture notes and cheatsheets
+
+**Naming conventions:**
+- Folders: `kebab-case` English (`applied-analysis`, `numerics-1`)
+- Semester folders keep German short form (`Semester3_WiSe25_26`)
 
 ---
 
-## Disclaimer
+## 🎯 Featured pieces
 
-These are personal study notes and may contain errors. Always refer to official course materials and textbooks.
+If you're visiting this repo for the first time, start here:
+
+- **Numerik 1 (S3)** — [`Semester3_WiSe25_26/numerics-1/`](Semester3_WiSe25_26/numerics-1/)
+  Five chapters of notes (root finding, interpolation, quadrature, ODEs,
+  numerical linear algebra) paired with working Python implementations
+  of Jacobi, Gauss–Seidel, SOR, and ODE solvers.
+
+- **Angewandte Analysis (S3)** — [`Semester3_WiSe25_26/applied-analysis/`](Semester3_WiSe25_26/applied-analysis/)
+  Four chapters covering metric and normed spaces, bounded operators,
+  Hilbert spaces, and the four fundamental theorems of functional analysis.
+
+- **Stochastik (S3)** — [`Semester3_WiSe25_26/stochastics/`](Semester3_WiSe25_26/stochastics/)
+  Probability foundations, random variables, expectation and variance,
+  with a distribution cheatsheet and Python utilities.
 
 ---
 
-## Author
+## 🗺️ Roadmap
+
+**Short term (SoSe 2026):**
+- Build out the four S4 course folders with notes + Python implementations
+- Migrate selected S1 and S2 materials as `.py` libraries and `.ipynb` demos
+
+**Medium term:**
+- M.Sc. application (TUM)
+- Exchange semester planning
+
+---
+
+## 👤 Author
 
 **Emmanuel Nana Nana**
-B.Sc. Applied Mathematics & Physics — TH Nürnberg
+Applied Mathematics & Physics @ TH Nürnberg
 
-[![GitHub](https://img.shields.io/badge/GitHub-e49nana-181717?style=flat&logo=github)](https://github.com/e49nana)
+[GitHub](https://github.com/e49nana) · [LinkedIn](https://linkedin.com/in/emmanuel-nana-nana)
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c75&height=100&section=footer" width="100%"/>
-</div>
+## ⚠️ Disclaimer
+
+These are personal study notes and may contain errors. Always refer to
+official course materials and textbooks.
+
+## 📄 License
+
+MIT — see [LICENSE](LICENSE).
